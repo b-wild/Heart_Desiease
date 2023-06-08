@@ -6,6 +6,15 @@
 
 ### Overview
 
+Technologies used in this project: 
+* Python
+* Jupyter Notebook
+* pandas
+* Matplotlib
+* scikit-learn
+* TensorFlow
+* Tableau
+
 ### Files Included
 
 ### References

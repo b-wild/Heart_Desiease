@@ -5,7 +5,7 @@
 * BethAnn Wilde
 
 ### Overview
-In this project, ... ... ...
+In this project, the team used existing data related to heart diseaese to create machine learning models to predict the presence of heart disease. The dataset was analysed and relationships between the available features and heart disease were ploted.  Six different machine learning models were created, scaled, trained, and tested.  The results were reviewed and it was determined that the SVC model had the highest F1 score as well as greatest accuracy, and is the Model the recommanded to predict Heart Disease.
 
 Technologies used in this project: 
 * Python
@@ -14,17 +14,17 @@ Technologies used in this project:
 * Matplotlib
 * scikit-learn
 * TensorFlow
+* Keras
 * Tableau
 
 ### Files Included
 #### Machine Learning Models
 * [Heart_decisiontree_Model.ipynb](ML_Model_Codes\Heart_decisiontree_Model.ipynb)
 * [Heart_kerastuner_Model.ipynb](ML_Model_Codes\Heart_kerastuner_Model.ipynb)
-* [Heart_kerastuner_Model2.ipynb](ML_Model_Codes\Heart_kerastuner_Model2.ipynb)
 * [Heart_logistic_regression_Model.ipynb](ML_Model_Codes\Heart_logistic_regression_Model.ipynb)
 * [Heart_randomforest_Model.ipynb](ML_Model_Codes\Heart_randomforest_Model.ipynb)
-* [HeartDiseaseSVC.ipynb](ML_Model_Codes\HeartDiseaseSVC.ipynb)
-* [neural_network.ipynb](ML_Model_Codes\neural_network.ipynb)
+* [Heart_SVC_Model.ipynb](ML_Model_Codes\Heart_SVC_Model.ipynb)
+* [Heart_neural_network_Model.ipynb](ML_Model_Codes\Heart_neural_network_Model.ipynb)
 
 #### Resources
 * [Heart_Disease_Prediction](Resources\Heart_Disease_Prediction.csv)

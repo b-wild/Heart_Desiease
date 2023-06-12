@@ -18,23 +18,25 @@ Technologies used in this project:
 * Tableau
 
 ### Files Included
-#### Machine Learning Models
-* [Heart_decisiontree_Model.ipynb](ML_Model_Codes\Heart_decisiontree_Model.ipynb)
-* [Heart_kerastuner_Model.ipynb](ML_Model_Codes\Heart_kerastuner_Model.ipynb)
-* [Heart_logistic_regression_Model.ipynb](ML_Model_Codes\Heart_logistic_regression_Model.ipynb)
-* [Heart_randomforest_Model.ipynb](ML_Model_Codes\Heart_randomforest_Model.ipynb)
-* [Heart_SVC_Model.ipynb](ML_Model_Codes\Heart_SVC_Model.ipynb)
-* [Heart_neural_network_Model.ipynb](ML_Model_Codes\Heart_neural_network_Model.ipynb)
+#### Supervised Learning Models
+* [Logistic Regression](ML_Model_Codes/Heart_logistic_regression_Model.ipynb)
+* [Decision Tree](ML_Model_Codes/Heart_decisiontree_Model.ipynb)
+* [Random Forest](ML_Model_Codes/Heart_randomforest_Model.ipynb)
+* [Support Vector Classifier (SVC)](ML_Model_Codes/Heart_SVC_Model.ipynb)
+
+#### Neural Networks Models
+* [Sequential](ML_Model_Codes/Heart_neural_network_Model.ipynb)
+* [Keras Tuner](ML_Model_Codes/Heart_kerastuner_Model.ipynb)
 
 #### Resources
-* [Heart_Disease_Prediction](Resources\Heart_Disease_Prediction.csv)
-* [Heart_Disease_WithText](Resources\Heart_Disease_WithText.csv)
+* [Original Dataset](Resources\Heart_Disease_Prediction.csv)
+* [Dataset With Labels](Resources\Heart_Disease_WithText.csv)
 
 #### Data Wrangling
-* [data_wrangling.ipynb](data_wrangling.ipynb)
+* [Data Wrangling Notebook](data_wrangling.ipynb)
 
 #### Presentation
-* [heart_disease_presentation.pptx](Presentation/heart_disease_presentation.pptx)
+* [Using Machine Learning to Predict Heart Disease - PowerPoint](Presentation/heart_disease_presentation.pptx)
 * [Heart Disease Prediction - Tableau Dashboards](https://public.tableau.com/views/Project4-6-12-2023/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### References

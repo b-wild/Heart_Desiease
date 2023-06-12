@@ -5,7 +5,7 @@
 * BethAnn Wilde
 
 ### Overview
-In this project, the team used existing data related to heart diseaese to create machine learning models to predict the presence of heart disease. The dataset was analysed and relationships between the available features and heart disease were ploted.  Six different machine learning models were created, scaled, trained, and tested.  The results were reviewed and it was determined that the SVC model had the highest F1 score as well as greatest accuracy, and is the Model the recommanded to predict Heart Disease.
+In this project, the team used existing data related to heart diseaese to create machine learning models to predict the presence of heart disease. The dataset was analysed and relationships between the available features and heart disease were ploted.  Six different machine learning models were created, scaled, trained, and tested.  The results were reviewed and it was determined that the SVC model had the highest F1 score as well as greatest accuracy and is the recommended model to predict heart disease.
 
 Technologies used in this project: 
 * Python
@@ -34,8 +34,8 @@ Technologies used in this project:
 * [data_wrangling.ipynb](data_wrangling.ipynb)
 
 #### Presentation
-* [heart disease heart presentation.pptx](heart disease heart presentation.pptx)
-* Link to Tableau Visualization
+* [heart_disease_presentation.pptx](Presentation/heart_disease_presentation.pptx)
+* [Heart Disease Prediction - Tableau Dashboards](https://public.tableau.com/views/Project4-6-12-2023/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### References
 Janosi, A., Steinbrunn, W., Pfisterer, M., and Detrano, R. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
